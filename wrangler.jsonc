@@ -81,13 +81,15 @@
 		{
 			"binding": "DB",
 			"database_name": "mailflare",
-			"migrations_dir": "drizzle/migrations","database_id": "5aadabbe-c600-426c-86f7-b0e3b367e76e",
+			"migrations_dir": "drizzle/migrations",
+			"database_id": "3e96bd94-d3bb-4f48-b159-f86a53d01b47",
 		},
 	],
 	"r2_buckets": [
 		{
 			"binding": "BUCKET",
-			"bucket_name": "mailflare-raw","preview_bucket_name": "mailflare-raw",
+			"bucket_name": "mailflare-raw",
+			"preview_bucket_name": "mailflare-raw",
 		},
 	],
 	"queues": {
